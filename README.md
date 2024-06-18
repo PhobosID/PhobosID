@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kristoff Liao</h1>
 <h3 align="center">Also known as my Online Name "PhobosID"</h3>
 
+![Profile Banner](https://i.ibb.co.com/LgKhH8s/banner.png)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/phobosid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="phobosid" height="30" width="40" /></a>
