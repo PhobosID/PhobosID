@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kristoff Liao</h1>
 <h3 align="center">Also known as my Online Name "PhobosID"</h3>
 
-<center><img src="https://i.ibb.co.com/7SLXHqk/banner-small.png"></center>
+<center><img src="banner.png"></center>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
