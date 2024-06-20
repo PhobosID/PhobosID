@@ -1,7 +1,7 @@
 <div align="center"><img src="assets/images/banner.png"></div>
 
 ## Language and Tools
-<a href="javascript:void(0);"><img src="assets/badges/html5.svg"></a>
+<a href="#"><img src="assets/badges/html5.svg"></a>
 <a href="javascript:void(0);"><img src="assets/badges/css3.svg"></a>
 <a href="javascript:void(0);"><img src="assets/badges/javascript.svg"></a>
 <a href="javascript:void(0);"><img src="assets/badges/markdown.svg"></a>
@@ -19,7 +19,7 @@
 <a href="https://discord.com/users/677123090437767200"><img src="assets/badges/discord.svg"></a>
 
 ## Operating System
-<a href="javascript:void(0);"><img src="assets/badges/os_windowws.svg"></a>
+<a href="javascript:void(0);"><img src="assets/badges/os_windows.svg"></a>
 <a href="javascript:void(0);"><img src="assets/badges/os_arch_linux.svg"></a>
 
 
