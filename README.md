@@ -18,12 +18,9 @@
 <a href="https://youtube.com/@PhobosID"><img src="assets/badges/youtube.svg"></a>
 <a href="https://discord.com/users/677123090437767200"><img src="assets/badges/discord.svg"></a>
 
-## Operating System
+## Operating System and Computer Builds
 <a href="#"><img src="assets/badges/os_windows.svg"></a>
 <a href="#"><img src="assets/badges/os_arch_linux.svg"></a>
-
-
-## Computer Builds
 <a href="#"><img src="assets/badges/pc_cpu.svg"></a>
 <a href="#"><img src="assets/badges/pc_gpu.svg"></a>
 
