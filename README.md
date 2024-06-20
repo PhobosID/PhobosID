@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kristoff Liao</h1>
 <h3 align="center">Also known as my Online Name "PhobosID"</h3>
 
-<center><img src="banner.png"></center>
+<div align="center"><img src="banner.png"></div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,3 +18,11 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+## How to Reach Me
+![mailto:halo@phobos.id](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
+![https://facebook.com/kristoff.vd](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+![https://instagram.com/kristoff.vd](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![https://x.com/PhobosID](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
+![https://mastodon.social/@PhobosID](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)
