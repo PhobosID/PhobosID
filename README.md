@@ -18,7 +18,8 @@
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
 ## Available At
-![https://youtube.com/@PhobosID](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+<a href="https://example.com"><img src="assets/badges/youtube.svg"></a>
+<a href="https://x.com/phobosid"><img src="assets/badges/twitter.svg"></a>
 ![https://x.com/PhobosID](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
 ![https://instagram.com/kristoff.vd](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![https://facebook.com/kristoff.vd](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
