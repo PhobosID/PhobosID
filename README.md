@@ -4,18 +4,12 @@
 <div align="center"><img src="assets/images/banner.png"></div>
 
 ## Language and Tools
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<a href="javascript:void(0);"><img src="assets/badges/html5.svg"></a>
+<a href="javascript:void(0);"><img src="assets/badges/css3.svg"></a>
+<a href="javascript:void(0);"><img src="assets/badges/javascript.svg"></a>
+<a href="javascript:void(0);"><img src="assets/badges/markdown.svg"></a>
+<a href="javascript:void(0);"><img src="assets/badges/git.svg"></a>
+<a href="javascript:void(0);"><img src="assets/badges/vscode.svg"></a>
 
 ## Available At
 <a href="https://facebook.com/kristoff.vd"><img src="assets/badges/facebook.svg"></a>
