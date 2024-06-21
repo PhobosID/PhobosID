@@ -1,4 +1,4 @@
-<div align="center"><img src="assets/images/banner.png"></div>
+<div align="center"><a href="#"><img src="assets/images/banner.png"></a></div>
 
 ## Language and Tools
 <a href="#"><img src="assets/badges/html5.svg"></a>
